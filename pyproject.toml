@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "QuickTemplate"
+name = "ParticleSwarmOptimization"
 version = "1.0.0"
-description = "Quickly start a new experiment!"
+description = ""
 authors = ["Michael Verdegaal"]
 readme = "README.md"
 packages = [{include = "main"}]

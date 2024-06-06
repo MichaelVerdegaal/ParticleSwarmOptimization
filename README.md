@@ -1,7 +1,6 @@
-# QuickTemplate
+# ParticleSwarmOptimization
 
-A python template to quickly start a new project. Comes with jupyter notebooks and a 
-pre-commit config pre-provided.
+Practicing the implementation of the particle swarm optimization technique.
 
 ## Installation
 
